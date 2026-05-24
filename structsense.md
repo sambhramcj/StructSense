@@ -84,13 +84,13 @@ Infrastructure failure is one of the most preventable yet persistent crises glob
 **Recorded Presentation (5 min):**
 
 <video controls width="100%">
-  <source src="/assets/images/StructSense/structsense-presentation.mp4" type="video/mp4">
+  <source src="/structsense-presentation.mp4" type="video/mp4">
 </video>
 
 **Demonstration Video (3 min):**
 
 <video controls width="100%">
-  <source src="/assets/images/StructSense/structsense-demo.mp4" type="video/mp4">
+  <source src="/structsense-demo.mp4" type="video/mp4">
 </video>
 
 ---
@@ -218,7 +218,7 @@ All sensor data is transmitted to the MYOSA BLE Android App via `myosa.sendBleDa
 
 ## Tech Stack
 
-* **MYOSA Motherboard** — ESP32 WROOM-32E (Wi-Fi + BLE)
+* **MYOSA Motherboard** — ESP32 
 * **AccelAndGyro.h** — Official MYOSA library for MPU6050
 * **BarometricPressure.h** — Official MYOSA library for BMP180
 * **LightProximityAndGesture.h** — Official MYOSA library for APDS9960
@@ -252,8 +252,8 @@ StructSense/
 ├── structsense-critical.jpeg
 ├── structsense-app.jpeg
 ├── structsense-demo.mp4
-├── structsense-presentation.mp4
-└── StructSense_Final.ino
+└── structsense-presentation.mp4
+StructSense_Final.ino
 structsense.md
 ```
 
